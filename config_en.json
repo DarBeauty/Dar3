@@ -4,6 +4,7 @@
       "font": "Tajawal",
       "type": "rotate",
       "title": "Free Shipping on Orders Over 24 OMR",
+      "showForCurrency": ["OMR","SAR"],
       "height": 30,
       "layout": "header_text",
       "rotate": [],

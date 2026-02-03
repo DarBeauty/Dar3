@@ -4,6 +4,7 @@
       "font": "Tajawal",
       "type": "rotate",
       "title": "شحن مجاني للطلبات فوق 24 ريال",
+      "showForCurrency": ["OMR","SAR"],
       "height": 30,
       "layout": "header_text",
       "rotate": [],
